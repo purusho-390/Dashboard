@@ -7,7 +7,6 @@ This Sales Data Analysis Dashboard is built using React.js, designed to visualiz
 - **Interactive Charts:** Utilizes interactive charts like line charts, bar charts, and pie charts for visualizing sales data.
 - **Data Filtering:** Allows users to filter data by various parameters such as time period, product category, region, etc.
 - **Performance Metrics:** Provides key performance metrics like total revenue, average order value, top-selling products, etc.
-- **User Authentication:** Secure login system for accessing the dashboard with different levels of access for administrators and users.
 - **Responsive Design:** Fully responsive design to ensure optimal viewing experience across devices.
 
 ## Technologies Used
@@ -16,9 +15,6 @@ This Sales Data Analysis Dashboard is built using React.js, designed to visualiz
 - **Chart.js:** For creating interactive charts and graphs.
 - **React Router:** For handling navigation within the dashboard.
 - **Material-UI:** Provides pre-designed React components for building the UI.
-- **Firebase:** Utilized for user authentication and data storage.
-- **Redux:** For managing application state and data flow.
-- **Axios:** For making HTTP requests to fetch data from backend APIs.
 
 ## Installation and Usage
 
