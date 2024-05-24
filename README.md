@@ -29,5 +29,4 @@ This Sales Data Analysis Dashboard is built using React.js, designed to visualiz
 3. **Deployment:**
    To deploy the dashboard to a live server, build the project:
    ```bash
-    Copy code
     npm run build
